@@ -1,0 +1,17 @@
+body{  
+  margin:5px;
+  padding:5px 10px;
+}
+header{
+display: flex;
+float: left;
+border: 2px solid black;
+font-size: 20px;
+}
+form{
+display: flex;
+margin: 40px;
+padding: 5px 10px;
+background-color: white;
+font-family:sans-serif;
+}
